@@ -5,4 +5,8 @@ Created in November-December 2017, with Aditya Chincholi.
 
 [Djikstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) is a well-known shortest path algorithm for graphs, using classes and files. This code is a varient of Dijkstra's original algorithm, and finds the shortest path between two given, user-requested nodes. 
 
-The example use-case here is a command line application to let users find the shortest path between two pre-defined areas in a city, for example to minimise time between ordering and recieving a pizza. Cold pizzas are often as bad as uncommented code.
+Cold pizzas are often as bad as uncommented code. The example use-case here is a command line application to let users find the shortest path between two pre-defined areas in a city, for example to minimise time between ordering and recieving a pizza. 
+
+A screenshot of what the application looks like:
+
+<img src = "https://github.com/satchitchatterji/Fastest-Pizza/blob/master/fastestpizza.PNG">
